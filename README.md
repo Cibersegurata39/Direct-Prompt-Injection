@@ -28,4 +28,4 @@ O bien nos podemos presentar nosotros como un cargo o perfil en concreto para co
 
 Otro método también pueden ser las técnicas de ofuscación con las que se disfrazan las instrucciones para *bypasear* los filtros. Estas técnicas pueden ser codificar el texto (en base64 por ejemplo), alternar caracteres (cambiar letras por números), usar espacios, traducir instrucciones a lenguaje con pocos recursos que sean más fáciles de saltar los filtros…
 
-Como se muestra, maneras hay varias para intentar engañar a la IA y pasar sus filtros para obtener resultados exitosos. Sólo es necesario ponerle imaginación.
+Como se muestra, maneras hay varias para intentar engañar a la IA y pasar sus filtros con el objetivo de obtener resultados exitosos. Sólo es necesario ponerle imaginación.

@@ -27,3 +27,5 @@ O bien nos podemos presentar nosotros como un cargo o perfil en concreto para co
 <img width="1624" height="968" alt="ChatGPT Image 18 jun 2026, 18_25_27" src="https://github.com/user-attachments/assets/bf195030-0567-4d78-b187-1883b550c41b" />
 
 Otro método también pueden ser las técnicas de ofuscación con las que se disfrazan las instrucciones para *bypasear* los filtros. Estas técnicas pueden ser encodear el código, alternar caracteres (letras por números), usar espacios…
+
+Como se muestra, maneras hay varias para intentar engañar a la IA y pasar sus filtros para obtener resultados exitosos. Sólo es necesario ponerle imaginación.

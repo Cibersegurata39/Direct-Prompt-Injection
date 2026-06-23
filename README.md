@@ -30,4 +30,6 @@ Otro método también pueden ser las técnicas de ofuscación con las que se dis
 
 Como se muestra, maneras hay varias para intentar engañar a la IA y pasar sus filtros con el objetivo de obtener resultados exitosos. Sólo es necesario ponerle imaginación.
 
-Recordatorio: todo el contenido de este post tiene una finalidad exclusivamente educativa y se presenta desde una perspectiva ética. Su único propósito es concienciar sobre los riesgos y amenazas que pueden surgir del uso de sistemas de inteligencia artificial que no han sido diseñados ni desplegados con las medidas de seguridad adecuadas.
+**Recordatorio**: todo el contenido de este post tiene una finalidad exclusivamente educativa y se presenta desde una perspectiva ética. Su único propósito es concienciar sobre los riesgos y amenazas que pueden surgir del uso de sistemas de inteligencia artificial que no han sido diseñados ni desplegados con las medidas de seguridad adecuadas.
+
+**Apunte**: Los ejemplos han sido sacados de la certificación eAIS de INE.
